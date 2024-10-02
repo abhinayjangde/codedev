@@ -8,3 +8,5 @@ const user  = {
         console.log(this.email)
     }
 }
+
+console.log(user)
