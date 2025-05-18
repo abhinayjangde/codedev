@@ -1,12 +1,9 @@
-const user  = {
-    name:"Abhi",
-    age:25,
-    email:"abhi@gmail.com",
-    show : function(){
-        console.log(this.name)
-        console.log(this.age)
-        console.log(this.email)
-    }
+const arr = [13,9,4,6,7]
+
+const product = {
+    productName: "Laptop",
+    price: "66K",
+    discount: 10
 }
 
-console.log(user)
+console.log(product.hasOwnProperty("discount"))

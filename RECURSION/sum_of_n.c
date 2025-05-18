@@ -3,7 +3,7 @@
 #include<conio.h>
 
 long long int sumOfN(long long int n){
-    return (n*(n+1)/2);
+    return (n*(n+1)/2); // O(1)
 }
 
 long long int iteractiveSum(long long int n){

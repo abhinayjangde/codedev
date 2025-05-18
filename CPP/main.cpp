@@ -1,27 +1,17 @@
-#include<bits/stdc++.h>
+#include<iostream>
+
 using namespace std;
-int majorityElement(vector<int>& nums) {
-        unordered_map<int,int> hash;
-        int n = nums.size();
-        int majorityElem;
-        for(int e : nums){
-            if(hash[e]){
-                hash[e]++;
-            }
-            else{
-                hash[e]=1;
-            }
-        }
-        for(auto [e,c] : hash){
-            if(c > n/2){
-                majorityElem = e;
-                break;
-            }
-        }
-        return majorityElem;
-    }
+
+int factorial(int n){
+    // base condition
+    cout<<"runs "<<n<<endl;
+    if(n==1 || n == 0) return 1;
+    return n * factorial(n-1);
+}
+
+
 int main(){
-    vector<int> nums = {3,2,3};
-    cout<<majorityElement(nums);
-    return 0;
+   
+    cout<<factorial(5)<<endl;
+
 }

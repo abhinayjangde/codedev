@@ -11,7 +11,7 @@ int sum(int n){
 
 // Fibonacci series 0 1 1 2 3 5 8 . . .
 int fib(int n){
-    if(n==1 or n==0){
+    if(n==1 || n==0){
         return n;
     }
     return fib(n-1) + fib(n-2);
