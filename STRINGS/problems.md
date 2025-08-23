@@ -1,5 +1,5 @@
-0.  To Lower Case https://leetcode.com/problems/to-lower-case/description/
-1.  Reverse String https://leetcode.com/problems/reverse-string/description/
+0.  To Lower Case https://leetcode.com/problems/to-lower-case/description/ [0]
+1.  Reverse String https://leetcode.com/problems/reverse-string/description/ [0]
 2.  Merge Sorted Array https://leetcode.com/problems/merge-sorted-array/description/
 3.  Score of a String https://leetcode.com/problems/score-of-a-string/description/
 4.  Find Words Containing Character https://leetcode.com/problems/find-words-containing-character/description/
@@ -31,4 +31,4 @@
 
 30. Sort Vowels in a String https://leetcode.com/problems/sort-vowels-in-a-string/description/
 31. Isomorphic Strings https://leetcode.com/problems/isomorphic-strings/description/
-32. 
+32. Capitalize the Title https://leetcode.com/problems/capitalize-the-title [0]

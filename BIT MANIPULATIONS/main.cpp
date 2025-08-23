@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     vector<string> s = {"d","b","c","b","c","a"};
-    int k=2;
+
     unordered_map<string,int> hash;
     for(int i=s.size()-1;i>=0;i--){
         if(!hash[s[i]]){
