@@ -1,0 +1,492 @@
+here are problems:
+
+## Array \& Hashing
+
+1. Contains Duplicate https://leetcode.com/problems/contains-duplicate
+2. Valid Anagram https://leetcode.com/problems/valid-anagram
+3. Two Sum https://leetcode.com/problems/two-sum
+4. Group Anagrams https://leetcode.com/problems/group-anagrams
+5. Invert Binary Tree https://leetcode.com/problems/invert-binary-tree
+
+
+
+Today, learned about Kadane's Algorithm, solved 5 problems.
+Also explored graph data structure.
+
+1. Binary Tree Inorder Traversal https://leetcode.com/problems/binary-tree-inorder-traversal
+2. Maximum Subarray https://leetcode.com/problems/maximum-subarray
+3. Binary Tree Postorder Traversal https://leetcode.com/problems/binary-tree-postorder-traversal
+4. Binary Tree Preorder Traversal https://leetcode.com/problems/binary-tree-preorder-traversal
+5. Level order traversal https://www.geeksforgeeks.org/problems/level-order-traversal/1
+6. Binary Tree Level Order Traversal https://leetcode.com/problems/binary-tree-level-order-traversal
+
+## Prefix Sum
+
+1. Find Pivot Index https://leetcode.com/problems/find-pivot-index
+2. Find the Middle Index in Array https://leetcode.com/problems/find-the-middle-index-in-array
+
+## 
+
+Day 24/Infinity ✅
+
+- Is Subsequence (Two Pointer)
+
+It is easy level question, you just have to loop through strings and matches...
+
+- Explored express-validator
+- Read a expressjs codebase
+
+
+Day 23/Infinity ✅
+
+
+
+Top K Frequent Elements
+
+Today solved 2 DSA problems.
+
+1207. Unique Number of Occurrences
+1208. Word Pattern
+
+
+
+Day 22/Infinity ✅
+
+
+
+\- Find Players With Zero or One Losses
+
+\- Lowest Common Ancestor of a Binary Search Tre
+
+\- Revised Langchain, Reactjs
+
+
+
+========================
+
+Day 21/Infinity ✅
+
+
+
+\- Topological Sort (Graph)
+
+\- Longest Common Prefix
+
+
+
+=========================
+
+Day 20/Infinity ✅
+
+
+
+\- BFS of graph
+
+\- DFS of Graph
+
+\- Reverse a LinkedList, TC = O(n)
+
+\- Symmetric Tree
+
+
+
+
+
+============================
+
+Day 19/Infinity ✅
+
+
+
+\- Solve: 541. Reverse String II
+
+\- Learned about WebSocket
+
+
+
+============================================
+
+
+
+Day 18/Infinity ✅
+
+
+
+\- 162. Find Peak Element
+
+\- 33. Search in Rotated Sorted Array
+
+\- 151. Reverse Words in a String
+
+\- 1221. Split a String in Balanced Strings
+
+\- 859. Buddy Strings
+
+
+
+============================================
+
+
+
+Day 17/Infinity ✅
+
+
+
+\- 33. Search in Rotated Sorted Array
+
+\- Built a URL shortener app
+
+\- Implemented Redis DB for caching
+
+\- Learn about Money
+
+============================================
+
+
+
+Day 16/Infinity ✅
+
+
+
+\- Solve one DSA problem on Binary Tree
+
+\- Lowest Common Ancestor of a Binary Tree
+
+\- Complete 4 Hours of MySQL it takes me 2 weeks
+
+
+
+after MySQL I built and simple app with nodejs, openai api to talk to my database tables.
+
+
+
+here is source code = https://github.com/abhinayjangde/genaidoc.git
+
+=======================================
+
+Day 15/Infinity ✅
+
+
+
+&nbsp;- Max Sum Subarray of size K
+
+&nbsp;- Validate Binary Search Tree
+
+&nbsp;- Binary Tree Inorder Traversal
+
+&nbsp;- Search in a Binary Search Tree
+
+&nbsp;- Kth Smallest Element in a BST
+
+
+
+=======================================
+
+Day 14/Infinity ✅
+
+&nbsp;
+
+\# Solved 2 DSA problems:
+
+
+
+&nbsp;- 704. Binary Search
+
+&nbsp;- 001.  Linear Search
+
+
+
+\# SQL, Profit \& Loss (Aptitude)
+
+
+
+
+
+==========================================
+
+Day 12/Infinity ✅
+
+&nbsp;
+
+\# Solved 2 DSA problems:
+
+
+
+&nbsp;- 104. Maximum Depth of Binary Tree
+
+&nbsp;- 543. Diameter of Binary Tree
+
+
+
+==========================================
+
+Day 11/Infinity ✅ 21-07-2025
+
+&nbsp;
+
+\# Solved 2 DSA problems:
+
+&nbsp;- 509. Fibonacci Number (Using DP concept)
+
+&nbsp;- 1. Odd Count
+
+&nbsp;- 2. Reverse a Integer
+
+&nbsp;- 3. Find the missing Number (Try use math)
+
+&nbsp;- 4. First Non-Repeating char in a string
+
+&nbsp;- 70. Climbing Stairs
+
+
+
+\# repetition is very important in DSA (revision)
+
+
+
+========================================
+
+Day 10/Infinity ✅ 20-07-2025
+
+
+
+\# Solved 2 DSA problems:
+
+&nbsp;- 61. Rotate List
+
+&nbsp;- 112. Path Sum
+
+
+
+\# Aptitude - Profit \& Loss
+
+============================================
+
+Day 9/Infinity ✅ 18-07-2025
+
+
+
+\# Solved 2 DSA problems:
+
+&nbsp;- 3541. Find Most Frequent Vowel and Consonant
+
+&nbsp;  Used HashMap concepts and loops
+
+============================================
+
+Day 8/Infinity ✅ 17-07-2025
+
+
+
+\# Solved 3 DSA problems:
+
+&nbsp;- 58. Length of Last Word
+
+&nbsp;- 2942. Find Words Containing Character
+
+&nbsp;- 771. Jewels and Stones
+
+
+
+\# OS
+
+&nbsp;- FCFS, SJF, Round Robin, Priority, MLQS, MLFQS
+
+&nbsp;- Types of Process
+
+
+
+\# Revision
+
+&nbsp;- Calendar, Clock, Average, Percentage
+
+
+
+==========================================
+
+Day 7/Infinity ✅ 15-07-2025
+
+
+
+\# Solved 1 DSA problems:
+
+&nbsp;- 283. Move Zeroes
+
+
+
+\# Concepts
+
+&nbsp;- Bubble Sort, Selection Sort
+
+
+
+Worked on portfolio website
+
+=========================================
+
+Day 6/Infinity✅ 14-07-2025
+
+
+
+\# Solved 4 DSA problems:
+
+&nbsp;- 20. Valid Parentheses
+
+&nbsp;- 141. Linked List Cycle
+
+&nbsp;- 206. Reverse Linked List
+
+&nbsp;- 104. Maximum Depth of Binary Tree
+
+&nbsp;
+
+Explored AWS - ELB, EC2, Elastic IP, Target Group
+
+https://github.com/abhinayjangde/capstone
+
+
+
+=========================================
+
+Day 5/Infinity✅ 13-07-2025
+
+
+
+\# Solved 3 DSA problems:
+
+&nbsp;- 141. Linked List Cycle
+
+&nbsp;- 232. Implement Queue using Stacks
+
+
+
+\# WebDev
+
+&nbsp;- OpenID Connect (OAuth)
+
+&nbsp;- Pydantic
+
+
+
+=========================================
+
+Day 4/Infinity✅ 12-07-2025
+
+
+
+\# Solved 2 DSA problems:
+
+&nbsp;- 225. Implement Stack using Queues
+
+&nbsp;- 58. Length of Last Word
+
+&nbsp;- 
+
+
+
+\# OS
+
+&nbsp;- Context Switching, FCFS, Convoy Effect
+
+&nbsp;- https://youtu.be/arlIBez-W\_I?si=84pYzmdevI5WLEUB
+
+&nbsp;	
+
+\# Worked On
+
+&nbsp;- FastAPI, Valkey (Redis), OpenAI
+
+&nbsp;- https://github.com/abhinayjangde/capstone
+
+
+
+=========================================
+
+Day 3/Infinity✅ 11-07-2025
+
+
+
+\# Solved 1 DSA problems:
+
+&nbsp;- 206. Reverse Linked List
+
+
+
+\# Aptitude
+
+&nbsp;- Average
+
+
+
+\# Worked On
+
+&nbsp;- GenAI - Redis, MongoDB, Python (FastAPI)
+
+&nbsp;- ImageKit (project)
+
+
+
+=========================================
+
+Day 2/Infinity✅ 10-07-2025
+
+
+
+\# Solved 3 DSA problems:
+
+&nbsp;- 2095. Delete the Middle Node of a Linked List
+
+&nbsp;- 283. Move Zeroes (Repeated)
+
+&nbsp;- 27. Remove Element (Repeated)
+
+
+
+\# Studied OS:
+
+&nbsp;- Storage
+
+&nbsp;- Process and States
+
+
+
+\# Other
+
+&nbsp;- Gaurdrails, Security and A2A (GenAI)
+
+
+
+========================================
+
+Day 1/Infinity✅ 09-07-2025
+
+
+
+\# Solved 2 DSA problems:
+
+&nbsp;- 707. Design Linked List
+
+&nbsp;- 876. Middle of the Linked List
+
+
+
+\# Studied OS:
+
+&nbsp;- What is OS ?
+
+&nbsp;- Functions of OS
+
+&nbsp;- Types of OS
+
+&nbsp;- Kernel (Monolithic, Micro, Hybrid)
+
+&nbsp;- Process \& Thread
+
+
+
+\# Other
+
+&nbsp;- MCP server
+
+
+

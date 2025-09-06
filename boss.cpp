@@ -1,23 +1,40 @@
 #include<iostream>
-#include<unordered_map>
-#include<vector>
-#include<map>
-#include<set>
-#include<unordered_map>
-
+#include<string>
 using namespace std;
+
+class Car{ // Abastract Class or Interface
+    public:
+        virtual void brake() = 0;
+        virtual void startEngine() = 0;
+        // virtual void shiftGear() = 0;
+        // virtual void stopEngine() = 0;
+};
+
+class SportCar : public Car{
+    public:
+        string brand;
+        string model;
+
+        SportCar(string b, string m){
+            this->brand = b;
+            this->model = m;
+        }
+
+        void brake(){
+            cout<<"brake!"<<endl;
+        }
+        void startEngine(){
+            cout<<"Engine started!"<<endl;
+        }
+};
+
 
 int main(){
 
-    set<int> s;
+    // cout<<"Hello World!\n";
 
-    s.insert(1);
-    s.insert(2);
-    s.insert(3);
+    Car * c = new SportCar("Ford", "X2");
+    c->brake();
 
-    for(int n : s){
-        cout << n << " ";
-    }
-    cout<<s.size()<<endl;
     return 0;
 }
