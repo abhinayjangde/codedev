@@ -1,40 +1,37 @@
-#include<iostream>
-#include<string>
+#include <iostream>
+#include <vector>
+#include <algorithm>
 using namespace std;
 
-class Car{ // Abastract Class or Interface
-    public:
-        virtual void brake() = 0;
-        virtual void startEngine() = 0;
-        // virtual void shiftGear() = 0;
-        // virtual void stopEngine() = 0;
-};
-
-class SportCar : public Car{
-    public:
-        string brand;
-        string model;
-
-        SportCar(string b, string m){
-            this->brand = b;
-            this->model = m;
+int solution(vector<int> &coins, int amount)
+{
+    sort(coins.begin(), coins.end(), greater<int>());
+    int ans = 0;
+    for (int i = 0; i < coins.size(); i++)
+    {
+        if (amount < 0)
+        {
+            break;
         }
-
-        void brake(){
-            cout<<"brake!"<<endl;
+        if (amount >= coins[i])
+        {
+            amount -= coins[i];
+            ans += 1;
         }
-        void startEngine(){
-            cout<<"Engine started!"<<endl;
+        else
+        {
+            i++;
         }
-};
+    }
+    return ans;
+}
+int main()
+{
 
-
-int main(){
-
-    // cout<<"Hello World!\n";
-
-    Car * c = new SportCar("Ford", "X2");
-    c->brake();
+    vector<int> coins = {1, 20, 2, 5, 10};
+    int amount = 7;
+    int ans = solution(coins, amount);
+    cout << "coins we need: " << ans << endl;
 
     return 0;
 }

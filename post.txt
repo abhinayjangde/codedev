@@ -26,6 +26,10 @@ Also explored graph data structure.
 2. Find the Middle Index in Array https://leetcode.com/problems/find-the-middle-index-in-array
 
 ## 
+Day 25/Infinity ✅
+- Solved one problem of DSA - Find the Index of the First Occurrence in a String
+- Day 2 of FastAPI
+- Learn about path parameter, query parameter, request body, pydantic model, cookie, header parameter in FastAPI
 
 Day 24/Infinity ✅
 
