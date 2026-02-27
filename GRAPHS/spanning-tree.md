@@ -1,0 +1,1 @@
+A spanning tree is a subset of a connected, undirected graph that connects all vertices together with the minimum possible number of edges, forming a tree structure without any loops (cycles). It includes every node from the original graph, but with exactly n-1 edges, where n is the number of vertices. 
