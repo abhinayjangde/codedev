@@ -1,0 +1,1 @@
+[ ] Ceate a funtion which takes an integer number and return the list of all it's factors.
