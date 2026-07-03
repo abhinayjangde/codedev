@@ -6,7 +6,7 @@ using namespace std;
 */
 
 int main(){
-    string r = "BA";
+    string r = "hello";
     reverse(r.begin(), r.end());
     cout<<r<<endl;
     return 0;
