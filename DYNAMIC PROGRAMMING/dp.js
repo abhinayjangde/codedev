@@ -9,4 +9,20 @@ function fib(n, dp = {}) {
     return dp[n];
 }
 
-console.log(fib(6));
+// console.log(fib(6));
+
+let arr = [1, 2, 3, 4];
+
+// function sumArray(arr) {
+
+//     function helper(index) {
+//         if (index === arr.length) return 0;
+//         return arr[index] + helper(index + 1);
+//     }
+//     return helper(0);
+
+// }
+
+// console.log(sumArray(arr));
+console.log(arr.pop());
+console.log(arr);
