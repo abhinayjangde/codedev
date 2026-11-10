@@ -7,3 +7,10 @@
 7.  Minimum Add to Make Parentheses Valid https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/
 8.  Next Greater Element https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1
 9.  
+
+
+https://leetcode.com/problems/baseball-game/
+
+https://leetcode.com/problems/valid-parentheses/
+
+https://leetcode.com/problems/min-stack/
